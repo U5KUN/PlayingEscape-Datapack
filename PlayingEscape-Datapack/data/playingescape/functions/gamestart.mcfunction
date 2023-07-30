@@ -1,0 +1,1 @@
+scoreboard objectives add gametime minecraft.custom:player_playtime
